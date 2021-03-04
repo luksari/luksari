@@ -2,7 +2,7 @@
 
 ## About me
 
-I am 23 years old Frontend developer, who is also highly interested in creating all kind of graphic design, including UI/UX of web applications, big fan of JAM Stack, React.js ecosystem, animations and best coding practices, including TDD, Architecture and Design patterns 🔥. Besides coding I am interested in yoga and meditation practice 🧘🏼‍♂️, fan of latin america culture and languages 🌎.
+I am 24 years old Frontend developer, who is also highly interested in creating all kind of graphic design, including UI/UX of web applications, big fan of JAM Stack, React.js ecosystem, animations and best coding practices, including TDD, Architecture and Design patterns 🔥. Besides coding I am interested in yoga and meditation practice 🧘🏼‍♂️, fan of latin america culture and languages 🌎.
 
 ## Technologies that I use
 
