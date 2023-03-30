@@ -2,7 +2,7 @@
 
 ## About me
 
-I am 25 years old Frontend developer, who is also highly interested in creating all kind of creative stuff, big fan of JAM Stack, React.js ecosystem, SEO, A11Y, animations and best coding practices, including TDD, Architecture and Design patterns 🔥. 
+I am 26 years old Frontend developer, who is also highly interested in creating all kind of creative stuff, big fan of JAM Stack, React.js ecosystem, SEO, A11Y, animations and best coding practices, including TDD, Architecture and Design patterns 🔥. 
 Besides coding I am interested in skateboarding, growning plants, yoga and meditation practice 🧘🏼‍♂️ big fan of traveling and learning languages 🌎.
 
 ## Technologies that I use
