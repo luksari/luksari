@@ -1,5 +1,3 @@
-<img src="https://i.ibb.co/GtLQ7rn/github-profile.png" alt="github-profile-luksari">
-
 ## About me
 
 I am 26 years old Frontend developer, who is also highly interested in creating all kind of creative stuff. I am a big fan of JAM Stack, React.js ecosystem, SEO, A11Y, animations and best coding practices, including TDD, Architecture and Design patterns 🔥
