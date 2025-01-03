@@ -1,6 +1,7 @@
 ## About me
 
-I am 28 years old Frontend developer with over 6 years of experience in the industry. I am the one who is also highly interested in creating all kind of creative stuff. I am a big fan of JAM Stack, React.js ecosystem, SEO, A11Y, animations and best coding practices, including TDD, well designed architecture 🔥
+I am 28 years old Frontend developer with over 6 years of experience in the industry 💻
+I am the one who is also highly interested in creating all kind of creative stuff 🎨 📸 I am a big fan of JAM Stack, React.js ecosystem, SEO, A11Y, animations and best coding practices, including TDD and well designed architecture 🔥
 Besides coding I am interested in traveling, content creation, taking care of the planet and people, yoga and mindfullness practice 🧘🏼‍♂️ big fan of trying new things and learning languages 🌎.
 
 ## Technologies that I use
